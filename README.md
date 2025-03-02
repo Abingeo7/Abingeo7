@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI Automation  
 - 🌱 I’m currently learning n8n and workflow Automation for AI Agents
 - 💞️ I’m looking to collaborate on automating operations for small and medium business in Supply Chain Industry  
-- 📫 How to reach me -- getaiedu@gmail.com , www.linkedin.com/in/abingetaied
+- 📫 How to reach me -- getaiedu@gmail.com , www.linkedin.com/in/abingetaied ,www.youtube.com/@GetAIedu
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
 
